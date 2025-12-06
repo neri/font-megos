@@ -8,7 +8,7 @@
 
 | Name                                                                                                                   | Size | Preview                        |
 | ---------------------------------------------------------------------------------------------------------------------- | ---- | ------------------------------ |
-| [MEGMsgr](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megmsgr.fnt) | 8x10 | ![Preview](images/megmsgr.png) |
+| [MEGMsgr](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megmsgr.fnt) | 8x10 | ![Preview](images/megmsgr.png) |
 
 * MEG Little Messenger (C) 2002 MEG-OS Project
 * すべての MEG フォントファミリーのもとになったフォントです。本来はプロポーショナルフォントです。
@@ -17,11 +17,11 @@
 
 | Name                                                                                                                     | Size | Preview                         |
 | ------------------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------- |
-| [MEGH0816](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0816.fnt) | 8x16 | ![Preview](images/megh0816.png) |
-| [MEGH0810](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0810.fnt) | 8x10 | ![Preview](images/megh0810.png) |
-| [MEGH0710](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0710.fnt) | 7x10 | ![Preview](images/megh0710.png) |
-| [MEGH0608](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0608.fnt) | 6x8  | ![Preview](images/megh0608.png) |
-| [MEGH0606](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0606.fnt) | 6x6  | ![Preview](images/megh0606.png) |
+| [MEGH0816](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0816.fnt) | 8x16 | ![Preview](images/megh0816.png) |
+| [MEGH0810](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0810.fnt) | 8x10 | ![Preview](images/megh0810.png) |
+| [MEGH0710](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0710.fnt) | 7x10 | ![Preview](images/megh0710.png) |
+| [MEGH0608](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0608.fnt) | 6x8  | ![Preview](images/megh0608.png) |
+| [MEGH0606](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megh0606.fnt) | 6x6  | ![Preview](images/megh0606.png) |
 
 * MEG Little Terminal (C) 2002, 2019 MEG-OS Project
 * ターミナル用の固定幅ファミリー、バリエーションが多めです。
@@ -30,7 +30,7 @@
 
 | Name                                                                                                                     | Size | Preview                         |
 | ------------------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------- |
-| [MEGBrave](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megbrave.fnt) | 8x10 | ![Preview](images/megbrave.png) |
+| [MEGBrave](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/megbrave.fnt) | 8x10 | ![Preview](images/megbrave.png) |
 
 * MEG Little Brave (C) 2002 MEG-OS Project
 * 他のフォントとすこし異色なファミリーです。
@@ -39,7 +39,7 @@
 
 | Name                                                                                                                     | Size | Preview                         |
 | ------------------------------------------------------------------------------------------------------------------------ | ---- | ------------------------------- |
-| [MOESYS16](https://nerry.jp/fedit95/src/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/moesys16.fnt) | 8x16 | ![Preview](images/moesys16.png) |
+| [MOESYS16](https://nerry.jp/fedit95/#https://raw.githubusercontent.com/meg-os/font-megos/master/fontx2/moesys16.fnt) | 8x16 | ![Preview](images/moesys16.png) |
 
 * (C) 2018 MEG-OS project
 * いままでの MEG フォントファミリーでは解像度の高いディスプレイで読みづらかったので追加されたフォントセットです。
